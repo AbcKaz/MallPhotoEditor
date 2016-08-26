@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MallAppGoods</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_goods">AddGoodsActivity</string>
+
+    <string name="error_empty_title">Название не может пустым</string>
+
+    <!-- goods add lang -->
+    <string name="goods_add_name">Название товара</string>
+    <string name="goods_add_price">Цена</string>
+    <string name="goods_add_description">Описание</string>
+    <string name="goods_save">Сохранить</string>
+    <string name="goods_edit">Редактировать</string>
+    <string name="goods_add_photos">Выбрать из галереи</string>
+    <string name="goods_add_photos_ok">Ок</string>
+</resources>
